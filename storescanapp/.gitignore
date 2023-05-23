@@ -1,0 +1,60 @@
+# Dependency directories
+/node_modules
+ios/Pods
+
+# Gradle files
+android/.gradle
+android/app/build
+android/build
+
+# Log files
+logs
+*.log
+
+# Compiled files
+*.apk
+*.aab
+*.jar
+*.class
+
+# Build files
+.gradle/
+/build/
+ios/build/
+android/app/build/
+android/build/
+
+# Environment variables
+.env
+
+# IDE and editor files
+.idea/
+.vscode/
+*.swp
+*.swo
+*.swn
+
+# macOS specific files
+.DS_Store
+
+# Android specific files
+android/local.properties
+android/captures/
+android/app/google-services.json
+
+# iOS specific files
+ios/Pods/
+ios/build/
+ios/Podfile.lock
+ios/*.xcodeproj/xcuserdata/
+
+# Miscellaneous
+*.iml
+*.bak
+*.tmp
+*.tmp.*
+*.swp
+*.swp.*
+*~
+*.DS_Store
+
